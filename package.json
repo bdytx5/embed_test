@@ -1,0 +1,26 @@
+{
+  "name": "embed_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdytx5/embed_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdytx5/embed_test/issues"
+  },
+  "homepage": "https://github.com/bdytx5/embed_test#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  },
+  "dependencies": {
+    "alpinejs": "^3.10.3"
+  }
+}

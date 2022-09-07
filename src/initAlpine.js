@@ -3,7 +3,7 @@
 import Alpine from 'alpinejs'
 
 // If you abstracted your Alpine component logic, you'd import that here
-import widget from './widget.js'
+//import widget from './widget.js'
 
 // import widget template
 import widgetHTML from './../widget.html';
